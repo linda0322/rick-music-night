@@ -7,7 +7,7 @@
 
 body {
   margin: 0;
-  background-color: #000000;
+  background-color: #191919;
 }
 *:focus {
   outline: none;
@@ -15,7 +15,7 @@ body {
 
 body {
   margin: 0;
-  background-color: #000000;
+  background-color: #191919;
 }
 
 #player-container {
@@ -34,7 +34,7 @@ body {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: #000000;
+  background-color: #191919;
   background-image: none;
   filter: none;
   -webkit-filter: none;
@@ -47,7 +47,7 @@ body {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: #000000;
+  background-color: #191919;
   opacity: 1;
   z-index: 2;
 }
